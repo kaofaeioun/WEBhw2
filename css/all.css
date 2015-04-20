@@ -125,6 +125,7 @@ body{
 }
 .word button a{
     color: white;
+    text-decoration: none;
 }
 .word button a:hover{
     color: skyblue;
@@ -174,6 +175,7 @@ body{
 .note h3{
     margin-top: -10px;
     font-size: 15px;
+    margin-bottom: 10px;
 }
 .note p{
     font-size: 10px;
